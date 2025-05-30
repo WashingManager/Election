@@ -1,3 +1,112 @@
 {
-  "error": "No data scraped"
+  "electionSummary": [
+    {
+      "region": "합계",
+      "electors": 44391871,
+      "totalVoters": 15423607,
+      "votingRate": 34.74
+    },
+    {
+      "region": "서울특별시",
+      "electors": 8293885,
+      "totalVoters": 2843337,
+      "votingRate": 34.28
+    },
+    {
+      "region": "부산광역시",
+      "electors": 2865552,
+      "totalVoters": 870147,
+      "votingRate": 30.37
+    },
+    {
+      "region": "대구광역시",
+      "electors": 2049078,
+      "totalVoters": 525257,
+      "votingRate": 25.63
+    },
+    {
+      "region": "인천광역시",
+      "electors": 2619348,
+      "totalVoters": 858899,
+      "votingRate": 32.79
+    },
+    {
+      "region": "광주광역시",
+      "electors": 1194471,
+      "totalVoters": 622587,
+      "votingRate": 52.12
+    },
+    {
+      "region": "대전광역시",
+      "electors": 1241882,
+      "totalVoters": 420753,
+      "votingRate": 33.88
+    },
+    {
+      "region": "울산광역시",
+      "electors": 934509,
+      "totalVoters": 299135,
+      "votingRate": 32.01
+    },
+    {
+      "region": "세종특별자치시",
+      "electors": 307067,
+      "totalVoters": 126398,
+      "votingRate": 41.16
+    },
+    {
+      "region": "경기도",
+      "electors": 11715343,
+      "totalVoters": 3852191,
+      "votingRate": 32.88
+    },
+    {
+      "region": "강원특별자치도",
+      "electors": 1327019,
+      "totalVoters": 485739,
+      "votingRate": 36.6
+    },
+    {
+      "region": "충청북도",
+      "electors": 1379142,
+      "totalVoters": 465011,
+      "votingRate": 33.72
+    },
+    {
+      "region": "충청남도",
+      "electors": 1839339,
+      "totalVoters": 595661,
+      "votingRate": 32.38
+    },
+    {
+      "region": "전북특별자치도",
+      "electors": 1510908,
+      "totalVoters": 800975,
+      "votingRate": 53.01
+    },
+    {
+      "region": "전라남도",
+      "electors": 1559431,
+      "totalVoters": 881109,
+      "votingRate": 56.5
+    },
+    {
+      "region": "경상북도",
+      "electors": 2213614,
+      "totalVoters": 697660,
+      "votingRate": 31.52
+    },
+    {
+      "region": "경상남도",
+      "electors": 2776028,
+      "totalVoters": 880284,
+      "votingRate": 31.71
+    },
+    {
+      "region": "제주특별자치도",
+      "electors": 565255,
+      "totalVoters": 198464,
+      "votingRate": 35.11
+    }
+  ]
 }

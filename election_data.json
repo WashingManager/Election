@@ -2,111 +2,111 @@
   "preElectionResults": [
     {
       "region": "합계",
-      "totalVoters": 14625746,
-      "inRegionVoters": 10550819,
-      "outRegionVoters": 4074927
+      "totalVoters": 15423607,
+      "inRegionVoters": 11131211,
+      "outRegionVoters": 4292396
     },
     {
       "region": "서울특별시",
-      "totalVoters": 2795049,
-      "inRegionVoters": 1835154,
-      "outRegionVoters": 959895
+      "totalVoters": 2957728,
+      "inRegionVoters": 1941241,
+      "outRegionVoters": 1016487
     },
     {
       "region": "부산광역시",
-      "totalVoters": 803938,
-      "inRegionVoters": 577306,
-      "outRegionVoters": 226632
+      "totalVoters": 848295,
+      "inRegionVoters": 609158,
+      "outRegionVoters": 239137
     },
     {
       "region": "대구광역시",
-      "totalVoters": 477126,
-      "inRegionVoters": 334417,
-      "outRegionVoters": 142709
+      "totalVoters": 507280,
+      "inRegionVoters": 356081,
+      "outRegionVoters": 151199
     },
     {
       "region": "인천광역시",
-      "totalVoters": 785917,
-      "inRegionVoters": 583630,
-      "outRegionVoters": 202287
+      "totalVoters": 829178,
+      "inRegionVoters": 616383,
+      "outRegionVoters": 212795
     },
     {
       "region": "광주광역시",
-      "totalVoters": 580898,
-      "inRegionVoters": 418677,
-      "outRegionVoters": 162221
+      "totalVoters": 607413,
+      "inRegionVoters": 437699,
+      "outRegionVoters": 169714
     },
     {
       "region": "대전광역시",
-      "totalVoters": 398897,
-      "inRegionVoters": 276373,
-      "outRegionVoters": 122524
+      "totalVoters": 423250,
+      "inRegionVoters": 293674,
+      "outRegionVoters": 129576
     },
     {
       "region": "울산광역시",
-      "totalVoters": 280101,
-      "inRegionVoters": 212076,
-      "outRegionVoters": 68025
+      "totalVoters": 298285,
+      "inRegionVoters": 225892,
+      "outRegionVoters": 72393
     },
     {
       "region": "세종특별자치시",
-      "totalVoters": 116535,
-      "inRegionVoters": 86202,
-      "outRegionVoters": 30333
+      "totalVoters": 124901,
+      "inRegionVoters": 92722,
+      "outRegionVoters": 32179
     },
     {
       "region": "경기도",
-      "totalVoters": 3492751,
-      "inRegionVoters": 2535491,
-      "outRegionVoters": 957260
+      "totalVoters": 3691230,
+      "inRegionVoters": 2684983,
+      "outRegionVoters": 1006247
     },
     {
       "region": "강원특별자치도",
-      "totalVoters": 526736,
-      "inRegionVoters": 369550,
-      "outRegionVoters": 157186
+      "totalVoters": 550470,
+      "inRegionVoters": 387513,
+      "outRegionVoters": 162957
     },
     {
       "region": "충청북도",
-      "totalVoters": 469090,
-      "inRegionVoters": 326589,
-      "outRegionVoters": 142501
+      "totalVoters": 496104,
+      "inRegionVoters": 344801,
+      "outRegionVoters": 151303
     },
     {
       "region": "충청남도",
-      "totalVoters": 607579,
-      "inRegionVoters": 423800,
-      "outRegionVoters": 183779
+      "totalVoters": 642179,
+      "inRegionVoters": 447980,
+      "outRegionVoters": 194199
     },
     {
       "region": "전북특별자치도",
-      "totalVoters": 762075,
-      "inRegionVoters": 604330,
-      "outRegionVoters": 157745
+      "totalVoters": 793452,
+      "inRegionVoters": 628782,
+      "outRegionVoters": 164670
     },
     {
       "region": "전라남도",
-      "totalVoters": 841583,
-      "inRegionVoters": 672968,
-      "outRegionVoters": 168615
+      "totalVoters": 872468,
+      "inRegionVoters": 697695,
+      "outRegionVoters": 174773
     },
     {
       "region": "경상북도",
-      "totalVoters": 674826,
-      "inRegionVoters": 507821,
-      "outRegionVoters": 167005
+      "totalVoters": 711789,
+      "inRegionVoters": 535177,
+      "outRegionVoters": 176612
     },
     {
       "region": "경상남도",
-      "totalVoters": 811760,
-      "inRegionVoters": 631634,
-      "outRegionVoters": 180126
+      "totalVoters": 859715,
+      "inRegionVoters": 669504,
+      "outRegionVoters": 190211
     },
     {
       "region": "제주특별자치도",
-      "totalVoters": 200885,
-      "inRegionVoters": 154801,
-      "outRegionVoters": 46084
+      "totalVoters": 209870,
+      "inRegionVoters": 161926,
+      "outRegionVoters": 47944
     }
   ]
 }
