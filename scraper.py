@@ -7,6 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import json
 import time
 from datetime import datetime
+import pytz
 
 # 웹드라이버 설정
 options = webdriver.ChromeOptions()
@@ -17,7 +18,7 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), opti
 
 try:
     # VCVP01 페이지 데이터 스크래핑
-    url = "http://info.nec.go.kr/main/showDocument.xhtml?electionId=0020250603&topMenuId=VC&secondMenuId=VCVP01"
+    url = "https://info.nec.go.kr/main/showDocument.xhtml?electionId=0020250603&topMenuId=VC&secondMenuId=VCVP01"
     driver.get(url)
 
     search_button = WebDriverWait(driver, 10).until(
@@ -59,8 +60,9 @@ try:
                 print(f"Row parsing error (VCVP01): {e}")
                 continue
 
-    # 현재 UTC 시간 기록
-    last_updated = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+    # 현재 KST 시간 기록
+    kst = pytz.timezone('Asia/Seoul')
+    last_updated = datetime.now(kst).strftime('%Y-%m-%d %H:%M:%S KST')
 
     # JSON 데이터에 lastUpdated 추가
     output_data = {
