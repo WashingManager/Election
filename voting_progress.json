@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2025-06-03T10:03:06Z",
+  "lastUpdated": "2025-06-03T10:38:25Z",
   "votingProgress": [
     {
       "region": "합계",
       "electionDayVoters": 28622921,
       "earlyMailVoters": 15768950,
       "totalElectors": 44391871,
-      "electionDayVotes": 18842295,
+      "electionDayVotes": 18843816,
       "earlyMailVotes": 15710084,
-      "totalVotes": 34552379,
+      "totalVotes": 34553900,
       "votingRate": 77.8
     },
     {
@@ -166,10 +166,10 @@
       "electionDayVoters": 1874504,
       "earlyMailVoters": 901524,
       "totalElectors": 2776028,
-      "electionDayVotes": 1240486,
+      "electionDayVotes": 1242007,
       "earlyMailVotes": 896991,
-      "totalVotes": 2137477,
-      "votingRate": 77.0
+      "totalVotes": 2138998,
+      "votingRate": 77.1
     },
     {
       "region": "제주특별자치도",
