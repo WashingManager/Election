@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2025-06-03T20:59:14Z",
+  "lastUpdated": "2025-06-03T21:26:05Z",
   "votingProgress": [
     {
       "region": "합계",
       "electionDayVoters": 28622921,
       "earlyMailVoters": 15768950,
       "totalElectors": 44391871,
-      "electionDayVotes": 19529689,
-      "earlyMailVotes": 15710727,
-      "totalVotes": 35240416,
+      "electionDayVotes": 19526449,
+      "earlyMailVotes": 15710048,
+      "totalVotes": 35236497,
       "votingRate": 79.4
     },
     {
@@ -16,9 +16,9 @@
       "electionDayVoters": 5360644,
       "earlyMailVoters": 2933241,
       "totalElectors": 8293885,
-      "electionDayVotes": 3725701,
-      "earlyMailVotes": 2916538,
-      "totalVotes": 6642239,
+      "electionDayVotes": 3725250,
+      "earlyMailVotes": 2916356,
+      "totalVotes": 6641606,
       "votingRate": 80.1
     },
     {
@@ -26,9 +26,9 @@
       "electionDayVoters": 1974222,
       "earlyMailVoters": 891330,
       "totalElectors": 2865552,
-      "electionDayVotes": 1357866,
-      "earlyMailVotes": 887946,
-      "totalVotes": 2245812,
+      "electionDayVotes": 1357827,
+      "earlyMailVotes": 887928,
+      "totalVotes": 2245755,
       "votingRate": 78.4
     },
     {
@@ -36,9 +36,9 @@
       "electionDayVoters": 1512496,
       "earlyMailVoters": 536582,
       "totalElectors": 2049078,
-      "electionDayVotes": 1108908,
-      "earlyMailVotes": 534473,
-      "totalVotes": 1643381,
+      "electionDayVotes": 1108606,
+      "earlyMailVotes": 534445,
+      "totalVotes": 1643051,
       "votingRate": 80.2
     },
     {
@@ -46,9 +46,9 @@
       "electionDayVoters": 1743008,
       "earlyMailVoters": 876340,
       "totalElectors": 2619348,
-      "electionDayVotes": 1162022,
-      "earlyMailVotes": 873648,
-      "totalVotes": 2035670,
+      "electionDayVotes": 1161753,
+      "earlyMailVotes": 873602,
+      "totalVotes": 2035355,
       "votingRate": 77.7
     },
     {
@@ -56,9 +56,9 @@
       "electionDayVoters": 564861,
       "earlyMailVoters": 629610,
       "totalElectors": 1194471,
-      "electionDayVotes": 373365,
-      "earlyMailVotes": 628801,
-      "totalVotes": 1002166,
+      "electionDayVotes": 373364,
+      "earlyMailVotes": 628785,
+      "totalVotes": 1002149,
       "votingRate": 83.9
     },
     {
@@ -66,9 +66,9 @@
       "electionDayVoters": 813910,
       "earlyMailVoters": 427972,
       "totalElectors": 1241882,
-      "electionDayVotes": 550753,
-      "earlyMailVotes": 426871,
-      "totalVotes": 977624,
+      "electionDayVotes": 550757,
+      "earlyMailVotes": 426852,
+      "totalVotes": 977609,
       "votingRate": 78.7
     },
     {
@@ -76,29 +76,29 @@
       "electionDayVoters": 630639,
       "earlyMailVoters": 303870,
       "totalElectors": 934509,
-      "electionDayVotes": 445459,
-      "earlyMailVotes": 303055,
-      "totalVotes": 748514,
-      "votingRate": 80.1
+      "electionDayVotes": 444906,
+      "earlyMailVotes": 303044,
+      "totalVotes": 747950,
+      "votingRate": 80.0
     },
     {
       "region": "세종특별자치시",
       "electionDayVoters": 177996,
       "earlyMailVoters": 129071,
       "totalElectors": 307067,
-      "electionDayVotes": 126386,
-      "earlyMailVotes": 128714,
-      "totalVotes": 255100,
-      "votingRate": 83.1
+      "electionDayVotes": 125983,
+      "earlyMailVotes": 128712,
+      "totalVotes": 254695,
+      "votingRate": 82.9
     },
     {
       "region": "경기도",
       "electionDayVoters": 7771565,
       "earlyMailVoters": 3943778,
       "totalElectors": 11715343,
-      "electionDayVotes": 5368244,
-      "earlyMailVotes": 3929791,
-      "totalVotes": 9298035,
+      "electionDayVotes": 5367807,
+      "earlyMailVotes": 3929641,
+      "totalVotes": 9297448,
       "votingRate": 79.4
     },
     {
@@ -106,9 +106,9 @@
       "electionDayVoters": 832271,
       "earlyMailVoters": 494748,
       "totalElectors": 1327019,
-      "electionDayVotes": 535885,
-      "earlyMailVotes": 493578,
-      "totalVotes": 1029463,
+      "electionDayVotes": 535847,
+      "earlyMailVotes": 493560,
+      "totalVotes": 1029407,
       "votingRate": 77.6
     },
     {
@@ -116,9 +116,9 @@
       "electionDayVoters": 906813,
       "earlyMailVoters": 472329,
       "totalElectors": 1379142,
-      "electionDayVotes": 594284,
-      "earlyMailVotes": 471257,
-      "totalVotes": 1065541,
+      "electionDayVotes": 594311,
+      "earlyMailVotes": 471247,
+      "totalVotes": 1065558,
       "votingRate": 77.3
     },
     {
@@ -126,9 +126,9 @@
       "electionDayVoters": 1233448,
       "earlyMailVoters": 605891,
       "totalElectors": 1839339,
-      "electionDayVotes": 793391,
-      "earlyMailVotes": 604377,
-      "totalVotes": 1397768,
+      "electionDayVotes": 793183,
+      "earlyMailVotes": 604338,
+      "totalVotes": 1397521,
       "votingRate": 76.0
     },
     {
@@ -136,9 +136,9 @@
       "electionDayVoters": 699258,
       "earlyMailVoters": 811650,
       "totalElectors": 1510908,
-      "electionDayVotes": 435743,
-      "earlyMailVotes": 810379,
-      "totalVotes": 1246122,
+      "electionDayVotes": 435763,
+      "earlyMailVotes": 810336,
+      "totalVotes": 1246099,
       "votingRate": 82.5
     },
     {
@@ -146,9 +146,9 @@
       "electionDayVoters": 664999,
       "earlyMailVoters": 894432,
       "totalElectors": 1559431,
-      "electionDayVotes": 410840,
-      "earlyMailVotes": 892552,
-      "totalVotes": 1303392,
+      "electionDayVotes": 410845,
+      "earlyMailVotes": 892520,
+      "totalVotes": 1303365,
       "votingRate": 83.6
     },
     {
@@ -156,9 +156,9 @@
       "electionDayVoters": 1501342,
       "earlyMailVoters": 712272,
       "totalElectors": 2213614,
-      "electionDayVotes": 1038436,
-      "earlyMailVotes": 709053,
-      "totalVotes": 1747489,
+      "electionDayVotes": 1038334,
+      "earlyMailVotes": 709030,
+      "totalVotes": 1747364,
       "votingRate": 78.9
     },
     {
@@ -166,9 +166,9 @@
       "electionDayVoters": 1874504,
       "earlyMailVoters": 901524,
       "totalElectors": 2776028,
-      "electionDayVotes": 1283369,
-      "earlyMailVotes": 897086,
-      "totalVotes": 2180455,
+      "electionDayVotes": 1282936,
+      "earlyMailVotes": 897053,
+      "totalVotes": 2179989,
       "votingRate": 78.5
     },
     {
@@ -176,9 +176,9 @@
       "electionDayVoters": 360945,
       "earlyMailVoters": 204310,
       "totalElectors": 565255,
-      "electionDayVotes": 219037,
-      "earlyMailVotes": 202608,
-      "totalVotes": 421645,
+      "electionDayVotes": 218977,
+      "earlyMailVotes": 202599,
+      "totalVotes": 421576,
       "votingRate": 74.6
     }
   ]
