@@ -1,185 +1,185 @@
 {
-  "lastUpdated": "2025-06-03T04:41:19Z",
+  "lastUpdated": "2025-06-03T04:57:04Z",
   "votingProgress": [
     {
       "region": "합계",
       "electionDayVoters": 28622921,
       "earlyMailVoters": 15768950,
       "totalElectors": 44391871,
-      "electionDayVotes": 12087720,
-      "earlyMailVotes": 15690745,
-      "totalVotes": 27778465,
-      "votingRate": 62.6
+      "electionDayVotes": 13338127,
+      "earlyMailVotes": 15709411,
+      "totalVotes": 29047538,
+      "votingRate": 65.4
     },
     {
       "region": "서울특별시",
       "electionDayVoters": 5360644,
       "earlyMailVoters": 2933241,
       "totalElectors": 8293885,
-      "electionDayVotes": 2230718,
-      "earlyMailVotes": 2916277,
-      "totalVotes": 5146995,
-      "votingRate": 62.1
+      "electionDayVotes": 2467857,
+      "earlyMailVotes": 2916285,
+      "totalVotes": 5384142,
+      "votingRate": 64.9
     },
     {
       "region": "부산광역시",
       "electionDayVoters": 1974222,
       "earlyMailVoters": 891330,
       "totalElectors": 2865552,
-      "electionDayVotes": 827169,
+      "electionDayVotes": 890784,
       "earlyMailVotes": 887874,
-      "totalVotes": 1715043,
-      "votingRate": 59.9
+      "totalVotes": 1778658,
+      "votingRate": 62.1
     },
     {
       "region": "대구광역시",
       "electionDayVoters": 1512496,
       "earlyMailVoters": 536582,
       "totalElectors": 2049078,
-      "electionDayVotes": 679846,
+      "electionDayVotes": 762244,
       "earlyMailVotes": 534402,
-      "totalVotes": 1214248,
-      "votingRate": 59.3
+      "totalVotes": 1296646,
+      "votingRate": 63.3
     },
     {
       "region": "인천광역시",
       "electionDayVoters": 1743008,
       "earlyMailVoters": 876340,
       "totalElectors": 2619348,
-      "electionDayVotes": 702728,
+      "electionDayVotes": 795411,
       "earlyMailVotes": 873604,
-      "totalVotes": 1576332,
-      "votingRate": 60.2
+      "totalVotes": 1669015,
+      "votingRate": 63.7
     },
     {
       "region": "광주광역시",
       "electionDayVoters": 564861,
       "earlyMailVoters": 629610,
       "totalElectors": 1194471,
-      "electionDayVotes": 232416,
+      "electionDayVotes": 255437,
       "earlyMailVotes": 628789,
-      "totalVotes": 861205,
-      "votingRate": 72.1
+      "totalVotes": 884226,
+      "votingRate": 74.0
     },
     {
       "region": "대전광역시",
       "electionDayVoters": 813910,
       "earlyMailVoters": 427972,
       "totalElectors": 1241882,
-      "electionDayVotes": 348701,
+      "electionDayVotes": 383821,
       "earlyMailVotes": 426831,
-      "totalVotes": 775532,
-      "votingRate": 62.4
+      "totalVotes": 810652,
+      "votingRate": 65.3
     },
     {
       "region": "울산광역시",
       "electionDayVoters": 630639,
       "earlyMailVoters": 303870,
       "totalElectors": 934509,
-      "electionDayVotes": 266834,
+      "electionDayVotes": 298331,
       "earlyMailVotes": 303038,
-      "totalVotes": 569872,
-      "votingRate": 61.0
+      "totalVotes": 601369,
+      "votingRate": 64.4
     },
     {
       "region": "세종특별자치시",
       "electionDayVoters": 177996,
       "earlyMailVoters": 129071,
       "totalElectors": 307067,
-      "electionDayVotes": 76963,
+      "electionDayVotes": 86200,
       "earlyMailVotes": 128713,
-      "totalVotes": 205676,
-      "votingRate": 67.0
+      "totalVotes": 214913,
+      "votingRate": 70.0
     },
     {
       "region": "경기도",
       "electionDayVoters": 7771565,
       "earlyMailVoters": 3943778,
       "totalElectors": 11715343,
-      "electionDayVotes": 3314137,
-      "earlyMailVotes": 3920534,
-      "totalVotes": 7234671,
-      "votingRate": 61.8
+      "electionDayVotes": 3676370,
+      "earlyMailVotes": 3929461,
+      "totalVotes": 7605831,
+      "votingRate": 64.9
     },
     {
       "region": "강원특별자치도",
       "electionDayVoters": 832271,
       "earlyMailVoters": 494748,
       "totalElectors": 1327019,
-      "electionDayVotes": 353355,
-      "earlyMailVotes": 491704,
-      "totalVotes": 845059,
-      "votingRate": 63.7
+      "electionDayVotes": 385646,
+      "earlyMailVotes": 493518,
+      "totalVotes": 879164,
+      "votingRate": 66.3
     },
     {
       "region": "충청북도",
       "electionDayVoters": 906813,
       "earlyMailVoters": 472329,
       "totalElectors": 1379142,
-      "electionDayVotes": 385070,
-      "earlyMailVotes": 471229,
-      "totalVotes": 856299,
-      "votingRate": 62.1
+      "electionDayVotes": 414555,
+      "earlyMailVotes": 471232,
+      "totalVotes": 885787,
+      "votingRate": 64.2
     },
     {
       "region": "충청남도",
       "electionDayVoters": 1233448,
       "earlyMailVoters": 605891,
       "totalElectors": 1839339,
-      "electionDayVotes": 527933,
+      "electionDayVotes": 560992,
       "earlyMailVotes": 604337,
-      "totalVotes": 1132270,
-      "votingRate": 61.6
+      "totalVotes": 1165329,
+      "votingRate": 63.4
     },
     {
       "region": "전북특별자치도",
       "electionDayVoters": 699258,
       "earlyMailVoters": 811650,
       "totalElectors": 1510908,
-      "electionDayVotes": 289997,
+      "electionDayVotes": 305195,
       "earlyMailVotes": 810316,
-      "totalVotes": 1100313,
-      "votingRate": 72.8
+      "totalVotes": 1115511,
+      "votingRate": 73.8
     },
     {
       "region": "전라남도",
       "electionDayVoters": 664999,
       "earlyMailVoters": 894432,
       "totalElectors": 1559431,
-      "electionDayVotes": 265413,
+      "electionDayVotes": 293060,
       "earlyMailVotes": 892489,
-      "totalVotes": 1157902,
-      "votingRate": 74.3
+      "totalVotes": 1185549,
+      "votingRate": 76.0
     },
     {
       "region": "경상북도",
       "electionDayVoters": 1501342,
       "earlyMailVoters": 712272,
       "totalElectors": 2213614,
-      "electionDayVotes": 658699,
-      "earlyMailVotes": 708961,
-      "totalVotes": 1367660,
-      "votingRate": 61.8
+      "electionDayVotes": 724264,
+      "earlyMailVotes": 708962,
+      "totalVotes": 1433226,
+      "votingRate": 64.7
     },
     {
       "region": "경상남도",
       "electionDayVoters": 1874504,
       "earlyMailVoters": 901524,
       "totalElectors": 2776028,
-      "electionDayVotes": 789578,
-      "earlyMailVotes": 889047,
-      "totalVotes": 1678625,
-      "votingRate": 60.5
+      "electionDayVotes": 882843,
+      "earlyMailVotes": 896960,
+      "totalVotes": 1779803,
+      "votingRate": 64.1
     },
     {
       "region": "제주특별자치도",
       "electionDayVoters": 360945,
       "earlyMailVoters": 204310,
       "totalElectors": 565255,
-      "electionDayVotes": 138163,
+      "electionDayVotes": 155117,
       "earlyMailVotes": 202600,
-      "totalVotes": 340763,
-      "votingRate": 60.3
+      "totalVotes": 357717,
+      "votingRate": 63.3
     }
   ]
 }
