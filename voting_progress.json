@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2025-06-03T07:01:27Z",
+  "lastUpdated": "2025-06-03T07:30:52Z",
   "votingProgress": [
     {
       "region": "합계",
       "electionDayVoters": 28622921,
       "earlyMailVoters": 15768950,
       "totalElectors": 44391871,
-      "electionDayVotes": 16025235,
+      "electionDayVotes": 16025414,
       "earlyMailVotes": 15709490,
-      "totalVotes": 31734725,
+      "totalVotes": 31734904,
       "votingRate": 71.5
     },
     {
@@ -136,9 +136,9 @@
       "electionDayVoters": 699258,
       "earlyMailVoters": 811650,
       "totalElectors": 1510908,
-      "electionDayVotes": 360492,
+      "electionDayVotes": 360671,
       "earlyMailVotes": 810316,
-      "totalVotes": 1170808,
+      "totalVotes": 1170987,
       "votingRate": 77.5
     },
     {
