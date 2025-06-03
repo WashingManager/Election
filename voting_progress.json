@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2025-06-03T08:58:23Z",
+  "lastUpdated": "2025-06-03T09:31:05Z",
   "votingProgress": [
     {
       "region": "합계",
       "electionDayVoters": 28622921,
       "earlyMailVoters": 15768950,
       "totalElectors": 44391871,
-      "electionDayVotes": 18048359,
-      "earlyMailVotes": 15709736,
-      "totalVotes": 33758095,
-      "votingRate": 76.0
+      "electionDayVotes": 18058968,
+      "earlyMailVotes": 15709738,
+      "totalVotes": 33768706,
+      "votingRate": 76.1
     },
     {
       "region": "서울특별시",
@@ -96,19 +96,19 @@
       "electionDayVoters": 7771565,
       "earlyMailVoters": 3943778,
       "totalElectors": 11715343,
-      "electionDayVotes": 4972695,
+      "electionDayVotes": 4982737,
       "earlyMailVotes": 3929542,
-      "totalVotes": 8902237,
-      "votingRate": 76.0
+      "totalVotes": 8912279,
+      "votingRate": 76.1
     },
     {
       "region": "강원특별자치도",
       "electionDayVoters": 832271,
       "earlyMailVoters": 494748,
       "totalElectors": 1327019,
-      "electionDayVotes": 502909,
+      "electionDayVotes": 503335,
       "earlyMailVotes": 493523,
-      "totalVotes": 996432,
+      "totalVotes": 996858,
       "votingRate": 75.1
     },
     {
@@ -136,9 +136,9 @@
       "electionDayVoters": 699258,
       "earlyMailVoters": 811650,
       "totalElectors": 1510908,
-      "electionDayVotes": 402928,
-      "earlyMailVotes": 810338,
-      "totalVotes": 1213266,
+      "electionDayVotes": 403069,
+      "earlyMailVotes": 810340,
+      "totalVotes": 1213409,
       "votingRate": 80.3
     },
     {
