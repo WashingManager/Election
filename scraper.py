@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import json
 import time
+from datetime import datetime
 
 # 웹드라이버 설정
 options = webdriver.ChromeOptions()
@@ -58,10 +59,19 @@ try:
                 print(f"Row parsing error (VCVP01): {e}")
                 continue
 
-    with open('voting_progress.json', 'w', encoding='utf-8') as f:
-        json.dump({"votingProgress": data}, f, ensure_ascii=False, indent=2)
+    # 현재 UTC 시간 기록
+    last_updated = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
 
-    print("VCVP01 데이터가 voting_progress.json 파일로 저장되었습니다.")
+    # JSON 데이터에 lastUpdated 추가
+    output_data = {
+        "lastUpdated": last_updated,
+        "votingProgress": data
+    }
+
+    with open('voting_progress.json', 'w', encoding='utf-8') as f:
+        json.dump(output_data, f, ensure_ascii=False, indent=2)
+
+    print(f"VCVP01 데이터가 voting_progress.json 파일로 저장되었습니다. (마지막 업데이트: {last_updated})")
 
 except Exception as e:
     print(f"Error occurred: {e}")
